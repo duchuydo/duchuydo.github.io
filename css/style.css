@@ -269,7 +269,7 @@ Buttons style
   .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
     background-color: transparent; } }
 .parallax-section {
-  background: url("../images/Space_Needle002.jpg") no-repeat;
+  background: url("../images/bg-4.JPG") no-repeat;
   height: 100%;
   background-size: cover;
   background-attachment: fixed; }
